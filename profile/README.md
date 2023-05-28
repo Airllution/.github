@@ -1,6 +1,8 @@
 # Airllution
 
-![앱 아이콘](https://github.com/chominho96/SKKU-my-tshark/assets/66549638/dd67c87a-0d93-4705-ba7c-fb5541fc3992)
+<p align="center">
+  <img src="https://github.com/chominho96/SKKU-my-tshark/assets/66549638/dd67c87a-0d93-4705-ba7c-fb5541fc3992"  width="200" height="200"/>
+</p>
 
 실시간 미세먼지 정보 서비스, Airllution입니다.
 
